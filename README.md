@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriel-code21
-- 👀 I’m interested in TypeScript
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on a web application that can utilize machine learning for cool themes
+- 👀 I’m interested in Svelte
+- 🌱 I’m currently learning how to code awesome websites
+- 💞️ I’m looking for people to beta test my applications
 - 📫 How to reach me: N/A
 
 <!---
